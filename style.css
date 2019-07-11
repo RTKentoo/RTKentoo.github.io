@@ -1,0 +1,23 @@
+body {
+	background-image: url(background-image.jpg);
+	background-size: cover;
+
+}
+
+h2 {
+	font-family: Orbitron;
+	font-size: 2em;
+	color: white;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.btn-primary {
+	font-size: .80em;
+	font-family: Orbitron;
+	display: flex;
+	margin: auto;
+	margin-top: 40px;
+	justify-content: center;
+}
